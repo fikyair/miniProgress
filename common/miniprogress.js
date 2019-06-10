@@ -67,7 +67,7 @@ Component({
             context.setFontSize(sizeNormal)
             context.setTextAlign('center')
             context.setTextBaseline('middle')
-            context.fillText('综合得分', width / 2, height - 20 + textY)
+            context.fillText('评分', width / 2, height - 20 + textY)
             context.font = `normal bold ${sizeBold}px sans-serif`;
             context.fillText(angle + '分', width / 2, height - 20 + textY + sizeBold + sizeNormal)
 
