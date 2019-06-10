@@ -35,6 +35,8 @@ progress.wxss
 并在该页面的json文件中将 ```<miniprogress /> ``` 关联
 ```
 "usingComponents": {
-      "miniprogress": "../common/miniprogress"
+      "miniprogress": "../common/miniprogress/miniprogress"
 }
 ```
+
+>注：自定义组件即为common文件夹下的文件
