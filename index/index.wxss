@@ -1,0 +1,5 @@
+.progress {
+    padding: 0 10%;
+    background: #5182e9;
+    height: 320rpx;
+}

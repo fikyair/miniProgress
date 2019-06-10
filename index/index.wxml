@@ -1,0 +1,3 @@
+<view class='progress'>
+    <miniprogress score="60" />
+</view>
