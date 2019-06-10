@@ -1,6 +1,5 @@
-#### miniProgress
+#### miniProgress (本项目是一个使用了自定义组件的代码片段)
 ##### 自定义  半圆进环度条  canvas绘制
-
 
 
 >效果
