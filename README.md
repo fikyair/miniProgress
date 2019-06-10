@@ -10,3 +10,32 @@
 >体验代码片段
 
 [半圆环进度条](https://developers.weixin.qq.com/s/Jmlz01mq7v94)
+
+>使用
+
+直接将 ```<miniprogress />```组件，引入要使用的页面
+
+``` 
+<view class='progress'>
+    <miniprogress score="60" />
+</view>
+```
+
+progress.wxss
+
+```
+.progress {
+    padding: 0 10%;
+    background: #5182e9;
+    height: 320rpx;
+}
+```
+
+
+
+并在该页面的json文件中将 ```<miniprogress /> ``` 关联
+```
+"usingComponents": {
+      "miniprogress": "../common/miniprogress"
+}
+```
