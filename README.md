@@ -3,7 +3,7 @@
 
 >效果
 
-![半圆进度条](http://qiniu.xueshiming.cn/%E5%8D%8A%E5%9C%86%E8%BF%9B%E5%BA%A6%E6%9D%A1.jpg)
+![半圆进度条](http://qiniu.xueshiming.cn/%E5%8D%8A%E5%9C%86%E8%BF%9B%E5%BA%A6%E6%9D%A1.jpg  =300x500)
 
 >体验代码片段
 
